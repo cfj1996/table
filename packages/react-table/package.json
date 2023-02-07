@@ -39,7 +39,7 @@
     "src"
   ],
   "dependencies": {
-    "@baishu/table-core": "1.0.0"
+    "@baishu/table-core": "^1.0.0"
   },
   "peerDependencies": {
     "react": ">=16",
