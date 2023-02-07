@@ -1,7 +1,7 @@
 {
   "name": "baishu-react-table",
   "author": "Tanner Linsley",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Headless UI for building powerful tables & datagrids for React.",
   "license": "MIT",
   "homepage": "https://github.com/cfj1996/table#readme",
@@ -39,7 +39,7 @@
     "src"
   ],
   "dependencies": {
-    "baishu-table-core": "1.0.1"
+    "baishu-table-core": "^1.0.2"
   },
   "peerDependencies": {
     "react": ">=16",
