@@ -17,7 +17,6 @@
     "cipublishforce": "CI=true npm run cipublish",
     "typecheck": "tsc -b"
   },
-  "namespace": "@baisu",
   "workspaces": [
     "./packages/react-table",
     "./packages/table-core"

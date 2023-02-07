@@ -15,8 +15,8 @@
     "skipLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@baishu/table-core": ["packages/table-core/src"],
-      "@baishu/react-table": ["packages/react-table/src"],
+      "baishu-table-core": ["packages/table-core/src"],
+      "baishu-react-table": ["packages/react-table/src"],
     }
   }
 }

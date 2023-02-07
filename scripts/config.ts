@@ -4,15 +4,15 @@ import { BranchConfig, Package } from './types'
 // TODO: List your npm packages here. The first package will be used as the versioner.
 export const packages: Package[] = [
   {
-    name: '@baishu/table-core',
+    name: 'baishu-table-core',
     packageDir: 'table-core',
     srcDir: 'src',
   },
   {
-    name: '@baishu/react-table',
+    name: 'baishu-react-table',
     packageDir: 'react-table',
     srcDir: 'src',
-    dependencies: ['@baishu/table-core'],
+    dependencies: ['baishu-table-core'],
   },
 ]
 

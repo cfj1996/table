@@ -1,5 +1,5 @@
 {
-  "name": "@baishu/react-table",
+  "name": "baishu-react-table",
   "author": "Tanner Linsley",
   "version": "1.0.1",
   "description": "Headless UI for building powerful tables & datagrids for React.",
@@ -39,10 +39,11 @@
     "src"
   ],
   "dependencies": {
-    "@baishu/table-core": "^1.0.1"
+    "baishu-table-core": "1.0.1"
   },
   "peerDependencies": {
     "react": ">=16",
     "react-dom": ">=16"
-  }
+  },
+  "gitHead": "9ee4164ebd583af9a28f60c67087b32fbfe10791"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@baishu/table-core",
+  "name": "baishu-table-core",
   "author": "Tanner Linsley",
   "version": "1.0.1",
   "description": "Headless UI for building powerful tables & datagrids for TS/JS.",
@@ -43,5 +43,6 @@
     "build/lib/*",
     "build/umd/*",
     "src"
-  ]
+  ],
+  "gitHead": "9ee4164ebd583af9a28f60c67087b32fbfe10791"
 }

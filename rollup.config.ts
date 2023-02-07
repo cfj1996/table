@@ -49,7 +49,7 @@ export default function rollup(options: RollupOptions): RollupOptions[] {
       jsName: 'ReactTable',
       outputFile: 'index',
       entryFile: 'src/index.tsx',
-      external: ['react', '@baishu/table-core'],
+      external: ['react', 'baishu-table-core'],
       globals: {
         react: 'React',
       },
